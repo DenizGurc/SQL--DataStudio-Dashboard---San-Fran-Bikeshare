@@ -1,4 +1,4 @@
-# Sentiment Analysis regarding School Shootings in the US
+# Building a dashboard in Google data studio using SQL
 
 This project is based on Big Query Google Data about Bike Sharing in San Francisco. 
 A dahboard has been build within Googe Data Studio utilizing SQL queries in order to understand more about 
